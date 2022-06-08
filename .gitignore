@@ -1,0 +1,5 @@
+venv/
+*.class
+test_*
+
+!test_script
