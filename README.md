@@ -19,3 +19,5 @@ dolor sic amet
 
 ## Section 2
 Sample text again Blahblahblah
+
+Another new line here
