@@ -14,3 +14,6 @@ dolor sic amet
 
 ## Pasta
 ![pic of pasta](https://th.bing.com/th/id/OIP._p3aKyA-N9PsHDkco73w8wHaKZ?pid=ImgDet&rs=1)
+
+## Section 2
+Sample text again
