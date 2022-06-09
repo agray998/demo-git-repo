@@ -5,5 +5,7 @@ for name in "${names[@]}"; do
     echo "Test Passed"
   else
     echo "Test failed!"
+    exit 1
   fi
 done
+
