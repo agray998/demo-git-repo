@@ -8,6 +8,7 @@ A repo to demonstrate basic git usage
 
 ## Section 1
 Sample text
+More sample text
 
 ### 1.1
 Lorem ipsum,  
